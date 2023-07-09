@@ -1,4 +1,4 @@
-# Chat Rooms 2.0 
+# Chat Rooms
 An Application for Chats and Discussions - Updated in June 2021
 
 #### Deployed Link: https://whatsapp-clone-ea11a.web.app/
